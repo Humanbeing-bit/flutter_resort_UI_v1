@@ -1,0 +1,42 @@
+[
+    {
+        "title": "MU Best Hotel",
+        "place":"Mumbai",
+        "cost":"150",
+        "rating":"4.0",
+        "image":"assets/images/icon2.png"
+
+    },
+    {
+        "title": "NY Best Hotel",
+        "place":"NY",
+        "cost":"100",
+        "rating":"2.0",
+        "image":"assets/images/icon2.png"
+
+    },
+    {
+        "title": "UK Best Hotel",
+        "place":"UK",
+        "cost":"300",
+        "rating":"1.0",
+        "image":"assets/images/icon2.png"
+
+    },
+    {
+        "title": "Spain Best Hotel",
+        "place":"Spain",
+        "cost":"550",
+        "rating":"4.5",
+        "image":"assets/images/icon2.png"
+
+    },
+    {
+        "title": "USA Best Hotel",
+        "place":"USA",
+        "cost":"1000",
+        "rating":"1.5",
+        "image":"assets/images/icon2.png"
+
+    }
+]
